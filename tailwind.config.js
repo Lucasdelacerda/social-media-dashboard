@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'dark-header-background': ' hsl(230, 17%, 14%)',
-        'dark-body-background': 'hsl(232, 19%, 15%)'
+        'dark-header-background': 'hsl(232, 19%, 15%)',
+        'dark-body-background': ''
       },
     },
   },
