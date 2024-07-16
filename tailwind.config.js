@@ -9,8 +9,8 @@ module.exports = {
         'Dark-Desaturated-Blue': 'hsl(228, 28%, 20%)',
         'Desaturated-Blue': 'hsl(228, 34%, 66%)',
         'White-color': 'hsl(0, 0%, 100%)',
-        'Toggle-light': 'hsl(230, 22%, 74%)',
         // light
+        'Toggle-light': 'hsl(230, 22%, 74%)',
         'White-bg': 'hsl(0, 0%, 100%)',
         'Very-Pale-Blue': 'hsl(225, 100%, 98%)',
         'Light-Grayish-Blue': 'hsl(227, 47%, 96%)',
@@ -24,9 +24,9 @@ module.exports = {
         'YouTube': 'hsl(348, 97%, 39%)',
       },
       backgroundImage: {
-        'Toggle-light': 'linear-gradient(to right, hsl(37, 97%, 70%), hsl(329, 70%, 58%))', 
-        'Instagram': 'linear-gradient(to right, hsl(37, 97%, 70%), hsl(329, 70%, 58%))',
-        'custom-gradient': 'linear-gradient(to right, hsl(210, 78%, 56%), hsl(146, 68%, 55%))',
+        'Toggle-dark': ' linear-gradient(90deg, hsl(210, 78%, 56%), hsl(146, 68%, 55%))',
+        'Instagram': 'linear-gradient(90deg, hsl(37, 97%, 70%), hsl(329, 70%, 58%))',
+        'custom-gradient': 'linear-gradient(90deg, hsl(210, 78%, 56%), hsl(146, 68%, 55%))',
       }
     },
   },
