@@ -11,12 +11,15 @@
     font-variation-settings:
         "slnt" 0;
 }
-.toggle-change{
+
+.toggle-change {
     transition: left 0.3s ease-in-out;
 }
-.cards{
-    cursor:pointer;
+
+.cards {
+    cursor: pointer;
 }
-.cards:hover{ 
-    background:rgba(131, 129, 129, 0.295);
-} 
+
+.cards:hover {
+    background: rgba(131, 129, 129, 0.295);
+}
